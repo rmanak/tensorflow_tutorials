@@ -1,4 +1,4 @@
-# Tutorial's in Tensorflow
+# Tensorflow Tutorials/Examples
 
 - Tutorial 1: Basic variables, placeholders, and session in TF
 
