@@ -1,6 +1,19 @@
 # -*- coding: utf-8 -*-
 """
-Some random tutorials/examples in Tensorflow
+__file__:
+
+    tutorial1_helloworld.py
+
+_description__:
+
+    Intro to TensorFlow 
+
+__credit__:
+
+    CS224D, Deep Learning for NLP, Stanford
+    <http://cs224d.stanford.edu/>
+    <http://cs224d.stanford.edu/lectures/CS224d-Lecture7.pdf>
+    Bharath Ramsundar
 """
 
 import tensorflow as tf
