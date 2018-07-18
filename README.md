@@ -18,6 +18,6 @@ These tutorials are all for **TensorFlow 1.8**. (See what is new in TF 1.9: [Ten
 
 ## Extras
 
-These are mainly some confusing concepts in TF Keras that I tried to clarify by code snippets.
+These are mainly some confusing concepts in TF/Keras that I tried to clarify by code snippets.
 
 - XTutorial 1: Demonstrates that `TimeDistributed(Dense(n))` layer in Keras is identical to applying `Dense(n)` layer.
