@@ -12,7 +12,9 @@ These tutorials are all for **TensorFlow 1.8**. (See what is new in TF 1.9: [Ten
 
 - Tutorial 5: Fully connected neural net "from scratch" (using TF's matrix operations) for binary classification
 
-- Tutorual 6: MNIST image classification using multilayer fully connected NN built using `tf.layers` API and data processing using `tf.data` API
+- Tutorial 6: MNIST image classification using multilayer fully connected NN built using `tf.layers` API and data processing using `tf.data` API
+
+- Tutorial 7: More on `tf.data.Dataset` API and building high performance IO and data processing pipeline
 
 ---
 
