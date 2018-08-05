@@ -16,6 +16,8 @@ These tutorials are all for **TensorFlow 1.8**. (See what is new in TF 1.9: [Ten
 
 - Tutorial 7: More on `tf.data.Dataset` API and building high performance IO and data processing pipeline
 
+- Tutorial 8: Premade estimators and `tf.feature_column` API for classification of iris dataset.
+
 ---
 
 ## Extras
