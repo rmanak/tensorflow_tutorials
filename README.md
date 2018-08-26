@@ -18,6 +18,8 @@ These tutorials are all for **TensorFlow 1.8**. (See what is new in TF 1.9: [Ten
 
 - Tutorial 8: Premade estimators and `tf.feature_column` API for classification of iris dataset.
 
+- Tutorial 9: Writing custom estimators with `tf.estimator` API, CSV IO example with dataset API and `tf.summary` for tensorboard.
+
 ---
 
 ## Extras
