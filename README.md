@@ -1,5 +1,9 @@
 # TensorFlow Tutorials/Examples
 
+I have more materials here, but will wait until release of TF 2.0 and re-work these tutorials to make sure there are not using any depricated API.
+
+
+
 These tutorials are all for **TensorFlow 1.8**. (See what is new in TF 1.9: [TensorFlow 1.9.0 Release](https://github.com/tensorflow/tensorflow/releases/tag/v1.9.0))
 
 - Tutorial 1: Basic variables, placeholders, matrix operations and session in TF
