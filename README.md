@@ -24,6 +24,8 @@ These tutorials are all for **TensorFlow 1.8**. (See what is new in TF 1.9: [Ten
 
 - Tutorial 9: Writing custom estimators with `tf.estimator` API, CSV IO example with dataset API and `tf.summary` for tensorboard.
 
+- Tutorial 10: Embedding layer to vectorize sequence of indicies (text vectorization) using `tf.nn.embedding_lookup`.
+
 ---
 
 ## Extras
