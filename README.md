@@ -1,3 +1,5 @@
+# ** WARNING ** : outdated materials, this material is pretty much outdated since the release of TF2.0+ 
+
 # TensorFlow Tutorials/Examples
 
 I have more materials here, but will wait until release of TF 2.0 and re-work these tutorials to make sure there are not using any depricated API.
